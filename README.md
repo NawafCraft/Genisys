@@ -7,6 +7,10 @@ __Feature-rich server software for Minecraft: Pocket Edition & Windows 10 Editio
 [![Travis-CI](https://img.shields.io/travis/iTXTech/Genisys/master.svg)](https://travis-ci.org/iTXTech/Genisys)
 [![GitLab CI](https://gitlab.com/itxtech/genisys/badges/master/build.svg)](https://gitlab.com/itxtech/genisys/pipelines?scope=branches)
 [![Jenkins](https://img.shields.io/jenkins/s/https/ci.itxtech.org/Genisys.svg)](https://ci.itxtech.org/job/Genisys/lastSuccessfulBuild/)
+[![GitHub Issues](https://img.shields.io/github/issues/iTXTech/Genisys.svg)](https://github.com/iTXTech/Genisys/issues)
+[![GitHub Forks](https://img.shields.io/github/forks/iTXTech/Genisys.svg)](https://github.com/iTXTech/Genisys/network)
+[![GitHub Stars](https://img.shields.io/github/stars/iTXTech/Genisys.svg)](#)
+[![GitHub License](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/iTXTech/Genisys/master/LICENSE)
 
 ## NOTICE: 0.16 IS NOT SUPPORTED YET. Read #1807 for further information.
 
