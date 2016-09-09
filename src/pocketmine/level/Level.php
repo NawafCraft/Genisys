@@ -2901,6 +2901,10 @@ class Level implements ChunkManager, Metadatable{
 
 		return abs($X - $spawnX) <= 1 and abs($Z - $spawnZ) <= 1;
 	}
+	
+	public function IsNight(){
+            return (($this->getTime()) >= \pocketmine\level\Level::TIME_NIGHT && ($this->getTime()) < \pocketmine\level\Level::TIME_SUNRISE);
+        }
 
 	/**
 	 * @param Vector3 $spawn default null
